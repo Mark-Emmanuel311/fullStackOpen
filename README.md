@@ -30,9 +30,7 @@ Each folder will contain:
 
 ## 📝 Progress
 - ✅ Part 0: Fundamentals of Web Apps 
-- ⏳ More coming soon...  
-
-*(Legend: ✅ Completed, 🚧 In Progress, ⏳ Not Started)*
+- ⏳ More coming soon...
 
 ---
 
